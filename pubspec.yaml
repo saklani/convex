@@ -1,0 +1,11 @@
+name: convex
+description: convenient extensions *(conv + ex)* for Dart libraries
+version: 0.0.3
+repository: https://github.com/saklani/nova
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
