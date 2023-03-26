@@ -41,6 +41,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.17.0"
+  convex:
+    dependency: "direct main"
+    description:
+      name: convex
+      sha256: "5f572d62b38f911bf24f1a2bb688df2a24b71f5a46962dab60157059ec785f56"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.3"
   fake_async:
     dependency: transitive
     description:

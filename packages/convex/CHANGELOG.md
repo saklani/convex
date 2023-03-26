@@ -37,3 +37,6 @@
 
 ## 0.0.3
 - Rollback, limit library to only extensions
+
+## 0.0.3+1
+- Description, formatting

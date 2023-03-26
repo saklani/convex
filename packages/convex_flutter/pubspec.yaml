@@ -8,6 +8,7 @@ version: 1.0.0+1
 environment:
   sdk: '>=2.19.2 <3.0.0'
 dependencies:
+  convex: ^0.0.3
   flutter:
     sdk: flutter
 
